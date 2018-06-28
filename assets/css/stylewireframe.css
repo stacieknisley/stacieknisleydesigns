@@ -1,0 +1,121 @@
+
+ body {
+    background-color: rgb(79, 96, 170);
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: 960px;
+    text-align: center;
+    margin: auto;
+}
+
+
+.header {
+
+    /* position: relative; */ 
+    /* left: 150px; */
+    /* right:  150px; */
+    background-color: rgba(241, 241, 241, 0.719);
+    text-align: center;
+    /*padding-top: 25px;*/
+    width: 870px;
+     border: 0 px solid rgb(102, 104, 102);
+    margin-right: 25px;
+}
+
+.txt-center{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.section {
+
+    /* position: relative; */
+
+    /* left: 15px; */
+    /* right: 10px; */
+    background-color: rgba(241, 241, 241, 0.719);
+    text-align: center;
+    padding: 5px;
+    width: 495px;
+    height: 300px;
+    border: 0 px solid rgb(102, 104, 102);
+    margin-right: 5px;
+    float: left;
+    margin-bottom: 10px;
+
+}
+
+
+.aside {
+
+    background-color: rgba(241, 241, 241, 0.719);
+    text-align: center;
+    padding: 30px;
+    width: 300px;
+    height: 250px;
+    border: 0 px solid rgb(102, 104, 102);
+    /* margin: 25px; */
+    float: left;
+    margin-bottom: 10px;
+}
+
+.onetwothree { 
+
+    background-color: rgba(241, 241, 241, 0.719);
+    text-align: center;
+    padding: 20px;
+    width: 90%;
+    height: 25px;
+    border: 0 px solid rgb(102, 104, 102);
+    margin: 5px; 
+}
+
+
+.p { 
+
+    background-color: rgba(241, 241, 241, 0.719);
+    text-align: center;
+    padding: 20px;
+    width: 90%;
+    height: 25px;
+    border: 0 px solid rgb(102, 104, 102);
+    margin: 5px; 
+}
+
+
+
+.article {
+    background-color: rgb(124, 132, 163);
+    text-align: center;
+    padding: 5px;
+    width: 475px;
+    height: 210px;
+    border: 0 px solid rgb(102, 104, 102);
+    margin-left: 5px;
+    float: left;
+
+}
+
+
+
+.footer { 
+    clear: both;
+
+    background-color: rgba(241, 241, 241, 0.719);
+    text-align: center;
+    /* padding-top: 25px; */
+    width: 870px;
+     border: 0 px solid rgb(102, 104, 102);
+    margin-top: 20px;
+    height: 60px;
+
+}
+
+ 
+
+
+
+
+/* content2 continues the left float; it will sit at the right side of content1 */
+
+  
+  
